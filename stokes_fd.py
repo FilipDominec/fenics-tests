@@ -60,4 +60,3 @@ solve(lhs(F)==rhs(F), w, [bc_in, bc_walls])
 
 plot(p, interactive=True, axes=True)
 plot(v, interactive=True, axes=True)
-
